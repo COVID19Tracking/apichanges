@@ -8,12 +8,7 @@ title: The COVID Tracking Project API Changelog
 
 ## About
 
-The COVID Tracking Project (CTP) hosted a data API with numbers for COVID-19 testing, outcomes, and hospitalization. This file includes publicly announced changes to the data API. The changelog was hosted and donated by [Headway](https://headwayapp.co/), and exported to this single markdown-formatted file by CTP staff.
-
-Related links:
-
-- [Original data API page](https://covidtracking.com/data/api/)
-- [Original change log](https://apichanges.covidtracking.com/)
+The COVID Tracking Project (CTP) [hosted a data API](https://covidtracking.com/data/api) with numbers for COVID-19 testing, outcomes, and hospitalization. This file includes publicly announced changes to the data API. The changelog was hosted and donated by [Headway](https://headwayapp.co/), and exported to this single markdown-formatted file by CTP staff.
 
 ## Changelog entries
 
